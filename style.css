@@ -360,12 +360,10 @@ main {
 
 /* ///////SUGGESTION SECTION STYLES///// */
 .suggestion-sec {
-  height: 100vh;
   width: 100%;
-  /* border: 2px solid red; */
   position: sticky;
   left: 942.5px;
-  top: 50px;
+  margin-top: 60px;
   margin-bottom: 30px;
 }
 
